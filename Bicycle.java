@@ -1,9 +1,9 @@
 public class Bicycle {
 
 	// the Bicycle class has three fields
-	public int cadence;
-	public int gear;
-	public int speed;
+	private int cadence;
+	private int gear;
+	private int speed;
 	
 	// Default constructor
     public Bicycle() {
